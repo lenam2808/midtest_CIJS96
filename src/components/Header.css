@@ -25,6 +25,7 @@
     width: 170px;
     height: 254px;
     border-radius: 12px;
+    cursor: pointer;
 }
 
 .textContent {

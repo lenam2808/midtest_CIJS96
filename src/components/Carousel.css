@@ -13,6 +13,8 @@
   position: absolute;
   top: -148px;
   opacity: 0.6;
+  cursor: pointer;
+
 }
 
 .carouselHeader {

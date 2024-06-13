@@ -74,6 +74,7 @@ function App() {
     <>
       <div className="container">
         <Navbar />
+
         {currentData ? (
           <Header currData={currentData} />
         ) : (
@@ -84,6 +85,7 @@ function App() {
         )}
 
         <Carousel />
+
         <div className="movieSession">
           <div className="title">New Release</div>
           <div className="cardList">
