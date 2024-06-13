@@ -1,0 +1,52 @@
+.header {
+    width: 80%;
+    margin: 20px auto;
+}
+
+.headerTitle{
+    font-size: 32px;
+    font-weight: 600;
+    align-content: center;
+    color: #ffffff;
+    margin: 20px 0;
+}
+
+.headerContent {
+    width: 100%;
+    display: flex;
+    align-items: start;
+}
+
+.headerImg {
+    margin-right: 20px;
+}
+
+.headerImg img{
+    width: 170px;
+    height: 254px;
+    border-radius: 12px;
+}
+
+.textContent {
+    height: 254px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+.textContent .episode {
+    color: #ffffff;
+    bottom: 4%;
+    font-size: 16px;
+    line-height: 18px;
+    font-weight: 400;
+}
+
+.headerText{
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 24.75px;
+    align-content: center;
+    color: #868686;
+    /* margin-bottom: 30px; */
+}
